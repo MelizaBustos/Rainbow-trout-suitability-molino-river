@@ -14,8 +14,8 @@ The study combines a low-cost Internet of Things (IoT) monitoring prototype with
 
 | File | Description |
 |---|---|
-| `Data.csv` | Water-quality records from the five monitoring sites (P1–P5) |
-| `Data_Analysis.py` | Python code for descriptive analysis, suitability classification, and XGBoost modelling |
+| `Data W.csv` | Water-quality records from the five monitoring sites (P1–P5) |
+| `Data Analysis.py` | Python code for descriptive analysis, suitability classification, and XGBoost modelling |
 | `README.md` | This file |
 
 ## Dataset description (`Data.csv`)
