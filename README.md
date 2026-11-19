@@ -1,9 +1,5 @@
 # IoT-Based Water-Quality Monitoring and XGBoost Classification of Physicochemical Suitability for Rainbow Trout Aquaculture in the Molino River, Peru
 
-This repository contains the dataset and Python code supporting the article:
-
-> [Authors]. (2026). *IoT-Based Water-Quality Monitoring and XGBoost Classification of Physicochemical Suitability for Rainbow Trout Aquaculture in the Molino River, Peru*. [Journal], [Volume], [Pages]. https://doi.org/[DOI]
-
 ## Overview
 
 The study combines a low-cost Internet of Things (IoT) monitoring prototype with an Extreme Gradient Boosting (XGBoost) classifier. Together they assess whether the physicochemical conditions of the Molino River (Amazonas, Peru) are suitable for rainbow trout (*Oncorhynchus mykiss*) aquaculture.
@@ -78,13 +74,7 @@ Make these changes first:
 3. Set `OUTPUT_DIR` and `ruta_salida` to a local folder, such as `"results"`.
 4. Run the script in Jupyter, because it uses `display()`.
 
-## How to cite
 
-If you use this dataset or code, please cite the article above and this repository:
-
-> [Authors]. (2026). *Dataset and code for: IoT-Based Water-Quality Monitoring and XGBoost Classification of Physicochemical Suitability for Rainbow Trout Aquaculture in the Molino River, Peru* (Version 1.0.0) [Data set and software]. Zenodo. https://doi.org/[DOI]
-
-## License
 
 The dataset and code are released under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
 
